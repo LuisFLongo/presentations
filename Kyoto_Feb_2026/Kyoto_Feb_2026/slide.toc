@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Motivations}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Past Works}{5}{0}{1}
+\beamer@sectionintoc {2}{Methods}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{NR simulations}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Post-Processing}{10}{0}{2}
+\beamer@sectionintoc {3}{Ejecta Dynamics }{12}{0}{3}
+\beamer@sectionintoc {4}{Elements Formation and Distribution}{17}{0}{4}
+\beamer@sectionintoc {5}{Light Curves}{24}{0}{5}
+\beamer@sectionintoc {6}{Conclusions and Future Work}{27}{0}{6}

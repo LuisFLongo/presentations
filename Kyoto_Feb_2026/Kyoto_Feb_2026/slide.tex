@@ -1,0 +1,84 @@
+\documentclass[aspectratio=169]{beamer}
+\usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{tribhuvan}
+\usepackage{tcolorbox}
+
+% other packages
+\usepackage{latexsym,amsmath,xcolor,multicol,booktabs,calligra}
+\usepackage{graphicx,pstricks,listings,stackengine}
+
+\usepackage[backend=biber,style=numeric]{biblatex}
+\addbibresource{references.bib}
+
+\author{Luis Felipe Longo Micchi}
+\title[3D BNS merger ejecta evolution up to second timescales]{3D BNS merger ejecta evolution up to second timescales}
+\subtitle{Dynamics, Element Distribution, and Light Curves}
+\institute{Friedrich-Schiller Universit\"at}
+\date{4\textsuperscript{th} Feb, 2026}
+
+
+% defs
+\def\cmd#1{\texttt{\color{red}\footnotesize $\backslash$#1}}
+\def\env#1{\texttt{\color{blue}\footnotesize #1}}
+\definecolor{deepblue}{rgb}{0,0,0.5}
+\definecolor{deepred}{rgb}{0.6,0,0}
+\definecolor{deepgreen}{rgb}{0,0.5,0}
+\definecolor{halfgray}{gray}{0.55}
+
+\lstset{
+    basicstyle=\ttfamily\small,
+    keywordstyle=\bfseries\color{deepblue},
+    emphstyle=\ttfamily\color{deepred},    % Custom highlighting style
+    stringstyle=\color{deepgreen},
+    numbers=left,
+    numberstyle=\small\color{halfgray},
+    rulesepcolor=\color{red!20!green!20!blue!20},
+    frame=shadowbox,
+}
+
+
+\begin{document}
+
+\begin{frame}
+    \titlepage
+    \vspace{-10pt}
+    \begin{figure}[htpb]
+        \begin{center}
+            \includegraphics[width=0.2\linewidth]{images/FSUlogo.jpg}
+	  \hfill
+	  \includegraphics[width=0.4\linewidth]{images/ERC_logo.png}
+        \end{center}
+    \end{figure}
+\end{frame}
+
+%\begin{frame}
+  %  \tableofcontents[sectionstyle=show,subsectionstyle=show/shaded/hide,subsubsectionstyle=show/shaded/hide]
+%\end{frame}
+
+
+\input{sections/0Motivations}
+
+\input{sections/1Methods}
+
+\input{sections/2Dynamics}
+
+\input{sections/3Elements}
+
+\input{sections/4LightCurves}
+
+\input{sections/5Conclusions}
+
+\begin{frame}[allowframebreaks]
+    \printbibliography
+\end{frame}
+
+\begin{frame}
+    \begin{center}
+        {\Huge Thanks for your attention!}
+\vspace{10}
+       \includegraphics[width=0.8\linewidth]{images/Thanks_jap.png}
+    \end{center}
+\end{frame}
+
+\end{document}

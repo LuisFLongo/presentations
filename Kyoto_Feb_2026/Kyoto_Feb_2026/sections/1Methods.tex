@@ -1,24 +1,76 @@
 \section{Methods}
 
-\subsection{NR simulations}
+%\subsection{NR simulations}
 
-\begin{frame}{}
+\begin{frame}{Methods}
+\begin{columns}
+
+% Left column
+\begin{column}{0.5\textwidth}
+\begin{tcolorbox}[
+    colback=white,
+    colframe=blue,
+    colbacktitle=blue!50!black!50,
+    title=Future Work,
+    fonttitle=\bfseries,
+    rounded corners,
+    boxrule=1pt,
+    left=2mm, right=2mm, top=1mm, bottom=1mm
+]
+    \item Original THC Simulations
+    \item Athena++ extensions
     \begin{itemize}
-        \item Original THC Simulations
-        \item Athena++ extensions
- 	    \begin{itemize}
-	    \item Injection
-	    \item Transition EOS
-	    \item NR Set-up
-	    \end{itemize}
+        \item Injection
+        \item Transition EOS
+        \item NR Set-up
     \end{itemize}
+
+\end{tcolorbox}
+\end{column}
+
+% Right column
+\begin{column}{0.5\textwidth}
+
+\begin{tcolorbox}[
+    colback=white,
+    colframe=blue,
+    colbacktitle=blue!50!black!50,
+    title=Future Work,
+    fonttitle=\bfseries,
+    rounded corners,
+    boxrule=1pt,
+    left=2mm, right=2mm, top=1mm, bottom=1mm
+]
+\begin{itemize}
+    \item KNEC code for light curves
+    \item WinNet for nucleosynthesis
+\end{itemize}
+\end{tcolorbox}
+
+\end{column}
+
+
+\end{columns}
+
 \end{frame}
 
-\subsection{Post-Processing}
+\begin{frame}{Models}
 
-\begin{frame}{Post-Processing}
-    \begin{itemize}
-        \item KNEC code for light curves
-        \item WinNet for nucleosynthesis
-    \end{itemize}
+
+\begin{tabular}{c| c| c| c| c| c| c}
+\hline\hline
+Model & EOS & $M_{1}[M_{\odot}]$ & $M_{2}[M_{\odot}]$ & Remnant & $t_{\rm collapse}$ [ms]& $M_{\mathrm{ej}}[M_{\odot}]$   \\
+\hline\hline
+BLh\_q1.43 & BLh  & 1.635 & 1.146 & BH & 114  &  8.37(8.31)$\times 10^{-3}$ \\
+\hline
+SFHo\_q1.0 & SFHo & 1.35  & 1.35  & BH & 8.3  &  4.58(4.57)$\times 10^{-3}$ \\
+\hline
+DD2\_q1.0  & DD2  & 1.35  & 1.35  & NS & -      & 4.63(4.61)$\times 10^{-3}$\\
+\hline
+DD2\_q1.67 & DD2  & 1.80  & 1.08  & NS & -     & 1.38(1.40)$\times 10^{-2}$\\
+\hline\hline
+\end{tabular}
+
 \end{frame}
+
+

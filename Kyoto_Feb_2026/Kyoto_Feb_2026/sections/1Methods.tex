@@ -11,7 +11,7 @@
     colback=white,
     colframe=blue,
     colbacktitle=blue!50!black!50,
-    title=Future Work,
+    title=NR simulations,
     fonttitle=\bfseries,
     rounded corners,
     boxrule=1pt,
@@ -20,9 +20,14 @@
     \item Original THC Simulations
     \item Athena++ extensions
     \begin{itemize}
-        \item Injection
-        \item Transition EOS
-        \item NR Set-up
+        \item Injection as time-dependent BC
+        \item Schwarzschild Metric
+        \item Transition EOS $q = w q_{\rm nuclear} + (1-w) q_{Helmholtz}$
+       \begin{itemize}
+		\item $w\rightarrow 1$ for large $T,\rho$ 
+		\item $w\rightarrow 0$ for low   $T,\rho$ 
+       \end{itemize}
+        \item Nuclear heating from tabulated trajectories of SkyNet 
     \end{itemize}
 
 \end{tcolorbox}
@@ -35,7 +40,7 @@
     colback=white,
     colframe=blue,
     colbacktitle=blue!50!black!50,
-    title=Future Work,
+    title=Post-processing,
     fonttitle=\bfseries,
     rounded corners,
     boxrule=1pt,

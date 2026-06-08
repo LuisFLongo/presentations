@@ -17,25 +17,33 @@
     boxrule=1pt,
     left=2mm, right=2mm, top=1mm, bottom=1mm
 ]
-    \item Original THC Simulations
-    \item Athena++ extensions
+\begin{itemize}   
+   \scriptsize
+    \item Original THC Simulations full GRhydro + M1 (Radice \& Benuzzi 2023, Benuzzi et al. 2025; Gutierrez et al. 2024)
+    \item Athena++ extensions (Stone et al. 2020)
     \begin{itemize}
-        \item Injection as time-dependent BC
-        \item Schwarzschild Metric
-        \item Transition EOS $q = w q_{\rm nuclear} + (1-w) q_{Helmholtz}$
-       \begin{itemize}
-		\item $w\rightarrow 1$ for large $T,\rho$ 
-		\item $w\rightarrow 0$ for low   $T,\rho$ 
-       \end{itemize}
-        \item Nuclear heating from tabulated trajectories of SkyNet 
+       \scriptsize
+        \item Time-dependent BC in Schwarzschild
+        %\item Schwarzschild Metric
+        \item $q = w q_{\rm nuclear} + (1-w) q_{Helmholtz}$
+        %\begin{itemize}
+	%	\scriptsize
+	%	\item $w\rightarrow 1$ for large $T,\rho$ 
+	%	\item $w\rightarrow 0$ for low   $T,\rho$ 
+       %\end{itemize}
+       \scriptsize
+        \item Nuclear heating tabulated as Wu et al. 2021
     \end{itemize}
-
+\end{itemize}
+ \includegraphics[width=1\linewidth]{../fig/fits.png}
 \end{tcolorbox}
+
+
 \end{column}
 
 % Right column
 \begin{column}{0.5\textwidth}
-
+\vspace{-0.5cm}
 \begin{tcolorbox}[
     colback=white,
     colframe=blue,
@@ -47,9 +55,22 @@
     left=2mm, right=2mm, top=1mm, bottom=1mm
 ]
 \begin{itemize}
+   \scriptsize  
     \item KNEC code for light curves
+    \begin{itemize} 
+	\scriptsize
+	\item 	Magistrelli et al. 2025
+    \end{itemize}
+   \scriptsize
     \item WinNet for nucleosynthesis
+    \begin{itemize}
+	\scriptsize
+	\item fed with backwards time integrated tracers
+	\item enough tracers to resolve the total mass $\sim{4.2}\times10^{4}$
+	\item Reichert et al. 2023
+    \end{itemize}
 \end{itemize}
+ \includegraphics[width=0.6\linewidth]{../fig/winnet_logo_light_theme.png}
 \end{tcolorbox}
 
 \end{column}

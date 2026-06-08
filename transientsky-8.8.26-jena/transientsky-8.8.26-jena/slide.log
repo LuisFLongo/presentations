@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.9)  8 JUN 2026 10:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.9)  8 JUN 2026 12:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1523,12 +1523,12 @@ ut line 59.
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-<images/FSUlogo.jpg, id=87, 803.0pt x 269.005pt>
+<images/FSUlogo.jpg, id=25, 803.0pt x 269.005pt>
 File: images/FSUlogo.jpg Graphic file (type jpg)
 <use images/FSUlogo.jpg>
 Package pdftex.def Info: images/FSUlogo.jpg  used on input line 59.
 (pdftex.def)             Requested size: 79.66649pt x 26.68452pt.
-<images/ERC_logo.png, id=88, 265.9536pt x 46.0119pt>
+<images/ERC_logo.png, id=26, 265.9536pt x 46.0119pt>
 File: images/ERC_logo.png Graphic file (type png)
 <use images/ERC_logo.png>
 Package pdftex.def Info: images/ERC_logo.png  used on input line 59.
@@ -1543,9 +1543,6 @@ Non-PDF special ignored!
 <special> header=pst-tools.pro
 Non-PDF special ignored!
 <special> header=pst-dots.pro
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
-dvips/cm-super/cm-super-t1.enc}
-
 
 Non-PDF special ignored!
 <special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
@@ -1553,37 +1550,118 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
 Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
- <./images/FSUlogo.jpg> <./images/ERC_logo.png>] (./sections/1Methods.tex
-<../fig/fits.png, id=181, 825.68475pt x 299.31825pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
+dvips/cm-super/cm-super-t1.enc} <./images/FSUlogo.jpg> <./images/ERC_logo.png>]
+<../fig/fits.png, id=63, 825.68475pt x 299.31825pt>
 File: ../fig/fits.png Graphic file (type png)
 <use ../fig/fits.png>
-Package pdftex.def Info: ../fig/fits.png  used on input line 82.
+Package pdftex.def Info: ../fig/fits.png  used on input line 141.
 (pdftex.def)             Requested size: 180.0977pt x 65.28387pt.
-<../fig/winnet_logo_light_theme.png, id=182, 216.81pt x 77.088pt>
+<../fig/winnet_logo_light_theme.png, id=64, 216.81pt x 77.088pt>
 File: ../fig/winnet_logo_light_theme.png Graphic file (type png)
 <use ../fig/winnet_logo_light_theme.png>
 Package pdftex.def Info: ../fig/winnet_logo_light_theme.png  used on input line
- 82.
+ 141.
 (pdftex.def)             Requested size: 108.05971pt x 38.42155pt.
 
-Overfull \vbox (6.12566pt too high) detected at line 82
+Overfull \vbox (6.12566pt too high) detected at line 141
  []
 
 [2
 
  <../fig/fits.png> <../fig/winnet_logo_light_theme.png>]
-<../fig/rhine.png, id=261, 523.20468pt x 504.38437pt>
-File: ../fig/rhine.png Graphic file (type png)
-<use ../fig/rhine.png>
-Package pdftex.def Info: ../fig/rhine.png  used on input line 146.
-(pdftex.def)             Requested size: 180.0977pt x 173.61258pt.
+<../fig/blh_vlr_hr_constatm/Masses_sections_phi.pdf, id=101, 632.76402pt x 480.
+69035pt>
+File: ../fig/blh_vlr_hr_constatm/Masses_sections_phi.pdf Graphic file (type pdf
+)
+<use ../fig/blh_vlr_hr_constatm/Masses_sections_phi.pdf>
+Package pdftex.def Info: ../fig/blh_vlr_hr_constatm/Masses_sections_phi.pdf  us
+ed on input line 171.
+(pdftex.def)             Requested size: 107.55177pt x 81.7016pt.
+<../fig/sfho_vlr_hr_constatm/Masses_sections_phi.pdf, id=102, 632.76402pt x 480
+.69035pt>
+File: ../fig/sfho_vlr_hr_constatm/Masses_sections_phi.pdf Graphic file (type pd
+f)
+<use ../fig/sfho_vlr_hr_constatm/Masses_sections_phi.pdf>
+Package pdftex.def Info: ../fig/sfho_vlr_hr_constatm/Masses_sections_phi.pdf  u
+sed on input line 171.
+(pdftex.def)             Requested size: 107.55177pt x 81.7016pt.
+<../fig/dd2_135_vlr_hr_constatm/Masses_sections_phi.pdf, id=103, 632.76402pt x 
+480.69035pt>
+File: ../fig/dd2_135_vlr_hr_constatm/Masses_sections_phi.pdf Graphic file (type
+ pdf)
+<use ../fig/dd2_135_vlr_hr_constatm/Masses_sections_phi.pdf>
+Package pdftex.def Info: ../fig/dd2_135_vlr_hr_constatm/Masses_sections_phi.pdf
+  used on input line 171.
+(pdftex.def)             Requested size: 107.55177pt x 81.7016pt.
+<../fig/dd2_180_vlr_hr_constatm/Masses_sections_phi.pdf, id=104, 632.76402pt x 
+480.69035pt>
+File: ../fig/dd2_180_vlr_hr_constatm/Masses_sections_phi.pdf Graphic file (type
+ pdf)
+<use ../fig/dd2_180_vlr_hr_constatm/Masses_sections_phi.pdf>
+Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/Masses_sections_phi.pdf
+  used on input line 171.
+(pdftex.def)             Requested size: 107.55177pt x 81.7016pt.
+ [3
 
-Overfull \vbox (5.47977pt too high) detected at line 146
+ <../fig/blh_vlr_hr_constatm/Masses_sections_phi.pdf> <../fig/sfho_vlr_hr_const
+atm/Masses_sections_phi.pdf> <../fig/dd2_135_vlr_hr_constatm/Masses_sections_ph
+i.pdf> <../fig/dd2_180_vlr_hr_constatm/Masses_sections_phi.pdf>]
+<../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_Actinides_frame_100.png, id=285, 2055
+.68pt x 2055.68pt>
+File: ../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_Actinides_frame_100.png Graphic 
+file (type png)
+<use ../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_Actinides_frame_100.png>
+Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_Actinides_fra
+me_100.png  used on input line 188.
+(pdftex.def)             Requested size: 199.1693pt x 199.14978pt.
+<../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_A=56_frame_100.png, id=286, 2055.68pt
+ x 2055.68pt>
+File: ../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_A=56_frame_100.png Graphic file 
+(type png)
+<use ../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_A=56_frame_100.png>
+Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_A=56_frame_10
+0.png  used on input line 188.
+(pdftex.def)             Requested size: 199.1693pt x 199.14978pt.
+
+Overfull \vbox (6.3144pt too high) detected at line 188
  []
 
-[3
+[4
 
- <../fig/rhine.png>]
+ <../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_Actinides_frame_100.png (PNG copy)> 
+<../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_A=56_frame_100.png (PNG copy)>]
+<../fig/model_comparison/Chi_joined.pdf, id=314, 722.7pt x 289.08pt>
+File: ../fig/model_comparison/Chi_joined.pdf Graphic file (type pdf)
+<use ../fig/model_comparison/Chi_joined.pdf>
+Package pdftex.def Info: ../fig/model_comparison/Chi_joined.pdf  used on input 
+line 229.
+(pdftex.def)             Requested size: 199.1693pt x 79.66705pt.
+<../fig/model_comparison/Expansion_and_heating_energies_v3.pdf, id=315, 462.527
+98pt x 346.89601pt>
+File: ../fig/model_comparison/Expansion_and_heating_energies_v3.pdf Graphic fil
+e (type pdf)
+<use ../fig/model_comparison/Expansion_and_heating_energies_v3.pdf>
+Package pdftex.def Info: ../fig/model_comparison/Expansion_and_heating_energies
+_v3.pdf  used on input line 229.
+(pdftex.def)             Requested size: 139.4179pt x 104.56186pt.
+<../fig/dd2_180_vlr_hr_constatm/velocities_final_cropped.png, id=316, 1200.7359
+3pt x 503.63156pt>
+File: ../fig/dd2_180_vlr_hr_constatm/velocities_final_cropped.png Graphic file 
+(type png)
+<use ../fig/dd2_180_vlr_hr_constatm/velocities_final_cropped.png>
+Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/velocities_final_croppe
+d.png  used on input line 229.
+(pdftex.def)             Requested size: 199.1693pt x 83.53365pt.
+
+Overfull \vbox (2.7295pt too high) detected at line 229
+ []
+
+[5
+
+ <../fig/model_comparison/Chi_joined.pdf> <../fig/model_comparison/Expansion_an
+d_heating_energies_v3.pdf> <../fig/dd2_180_vlr_hr_constatm/velocities_final_cro
+pped.png>]
 
 ! Package pgfkeys Error: I do not know the key '/tcb/` boxrule', to which you p
 assed '1pt', and I am going to ignore it. Perhaps you misspelled it.
@@ -1592,309 +1670,50 @@ See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.220 \end{frame}
+l.303 \end{frame}
                  
 ? 
-[4
+[6
 
-]) (./sections/ExtraMHD.tex
-<../fig/blh_vlr_hr_constatm_mhd/ye_bfield.png, id=407, 612.1269pt x 297.0297pt>
-
-File: ../fig/blh_vlr_hr_constatm_mhd/ye_bfield.png Graphic file (type png)
-<use ../fig/blh_vlr_hr_constatm_mhd/ye_bfield.png>
-Package pdftex.def Info: ../fig/blh_vlr_hr_constatm_mhd/ye_bfield.png  used on 
-input line 40.
-(pdftex.def)             Requested size: 210.32207pt x 102.05385pt.
-
-Overfull \hbox (19.12125pt too wide) in paragraph at lines 40--40
- [] 
- []
-
-[5
-
- <../fig/blh_vlr_hr_constatm_mhd/ye_bfield.png>]) (./sections/ExtraAIC.tex
-<../fig/AIC/Central_density_and_ye.pdf, id=479, 958.25269pt x 319.12762pt>
+]
+<../fig/AIC/Central_density_and_ye.pdf, id=476, 958.25269pt x 319.12762pt>
 File: ../fig/AIC/Central_density_and_ye.pdf Graphic file (type pdf)
 <use ../fig/AIC/Central_density_and_ye.pdf>
 Package pdftex.def Info: ../fig/AIC/Central_density_and_ye.pdf  used on input l
-ine 43.
+ine 345.
 (pdftex.def)             Requested size: 210.32207pt x 70.04272pt.
-<../fig/AIC/fig_eje_histogram.pdf, id=480, 1510.44734pt x 452.56058pt>
+<../fig/AIC/fig_eje_histogram.pdf, id=477, 1510.44734pt x 452.56058pt>
 File: ../fig/AIC/fig_eje_histogram.pdf Graphic file (type pdf)
 <use ../fig/AIC/fig_eje_histogram.pdf>
-Package pdftex.def Info: ../fig/AIC/fig_eje_histogram.pdf  used on input line 4
-3.
+Package pdftex.def Info: ../fig/AIC/fig_eje_histogram.pdf  used on input line 3
+45.
 (pdftex.def)             Requested size: 210.32207pt x 63.01277pt.
 
-Overfull \hbox (19.12125pt too wide) in paragraph at lines 43--43
+Overfull \hbox (19.12125pt too wide) in paragraph at lines 345--345
  [] 
  []
 
 
-Overfull \hbox (19.12125pt too wide) in paragraph at lines 43--43
- [] 
- []
-
-[6
-
- <../fig/AIC/Central_density_and_ye.pdf> <../fig/AIC/fig_eje_histogram.pdf>]
-<../fig/AIC/H.pdf, id=620, 1076.82304pt x 657.29567pt>
-File: ../fig/AIC/H.pdf Graphic file (type pdf)
-<use ../fig/AIC/H.pdf>
-Package pdftex.def Info: ../fig/AIC/H.pdf  used on input line 82.
-(pdftex.def)             Requested size: 210.32207pt x 128.37775pt.
-
-Overfull \hbox (19.12125pt too wide) in paragraph at lines 82--82
+Overfull \hbox (19.12125pt too wide) in paragraph at lines 345--345
  [] 
  []
 
 [7
 
- <../fig/AIC/H.pdf>]) (./sections/2Dynamics.tex
-Overfull \hbox (14.91031pt too wide) in paragraph at lines 22--22
-[][]  
+ <../fig/AIC/Central_density_and_ye.pdf> <../fig/AIC/fig_eje_histogram.pdf>]
+<../fig/AIC/H.pdf, id=575, 1076.82304pt x 657.29567pt>
+File: ../fig/AIC/H.pdf Graphic file (type pdf)
+<use ../fig/AIC/H.pdf>
+Package pdftex.def Info: ../fig/AIC/H.pdf  used on input line 384.
+(pdftex.def)             Requested size: 210.32207pt x 128.37775pt.
+
+Overfull \hbox (19.12125pt too wide) in paragraph at lines 384--384
+ [] 
  []
 
 [8
 
-]
-<../fig/model_comparison/Chi_joined.pdf, id=847, 722.7pt x 289.08pt>
-File: ../fig/model_comparison/Chi_joined.pdf Graphic file (type pdf)
-<use ../fig/model_comparison/Chi_joined.pdf>
-Package pdftex.def Info: ../fig/model_comparison/Chi_joined.pdf  used on input 
-line 62.
-(pdftex.def)             Requested size: 199.1693pt x 79.66705pt.
-<../fig/model_comparison/Expansion_and_heating_energies_v3.pdf, id=848, 462.527
-98pt x 346.89601pt>
-File: ../fig/model_comparison/Expansion_and_heating_energies_v3.pdf Graphic fil
-e (type pdf)
-<use ../fig/model_comparison/Expansion_and_heating_energies_v3.pdf>
-Package pdftex.def Info: ../fig/model_comparison/Expansion_and_heating_energies
-_v3.pdf  used on input line 62.
-(pdftex.def)             Requested size: 139.4179pt x 104.56186pt.
-<../fig/dd2_180_vlr_hr_constatm/velocities_final_cropped.png, id=849, 1200.7359
-3pt x 503.63156pt>
-File: ../fig/dd2_180_vlr_hr_constatm/velocities_final_cropped.png Graphic file 
-(type png)
-<use ../fig/dd2_180_vlr_hr_constatm/velocities_final_cropped.png>
-Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/velocities_final_croppe
-d.png  used on input line 62.
-(pdftex.def)             Requested size: 199.1693pt x 83.53365pt.
-
-Overfull \vbox (2.7295pt too high) detected at line 62
- []
-
-[9
-
- <../fig/model_comparison/Chi_joined.pdf> <../fig/model_comparison/Expansion_an
-d_heating_energies_v3.pdf> <../fig/dd2_180_vlr_hr_constatm/velocities_final_cro
-pped.png>]
-<../fig/dd2_180_vlr_hr_constatm/HRdens_final.pdf, id=1016, 792.57071pt x 386.34
-337pt>
-File: ../fig/dd2_180_vlr_hr_constatm/HRdens_final.pdf Graphic file (type pdf)
-<use ../fig/dd2_180_vlr_hr_constatm/HRdens_final.pdf>
-Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/HRdens_final.pdf  used 
-on input line 97.
-(pdftex.def)             Requested size: 199.1693pt x 97.08669pt.
- [10
-
- <../fig/dd2_180_vlr_hr_constatm/HRdens_final.pdf>]
-<../fig/model_comparison/Mejecta_time_evolution_joined.pdf, id=1128, 468.20045p
-t x 323.99588pt>
-File: ../fig/model_comparison/Mejecta_time_evolution_joined.pdf Graphic file (t
-ype pdf)
-<use ../fig/model_comparison/Mejecta_time_evolution_joined.pdf>
-Package pdftex.def Info: ../fig/model_comparison/Mejecta_time_evolution_joined.
-pdf  used on input line 155.
-(pdftex.def)             Requested size: 199.1693pt x 137.82744pt.
-<../fig/sfho_vlr_hr_constatm/Mass_injection.pdf, id=1129, 462.52798pt x 346.896
-01pt>
-File: ../fig/sfho_vlr_hr_constatm/Mass_injection.pdf Graphic file (type pdf)
-<use ../fig/sfho_vlr_hr_constatm/Mass_injection.pdf>
-Package pdftex.def Info: ../fig/sfho_vlr_hr_constatm/Mass_injection.pdf  used o
-n input line 155.
-(pdftex.def)             Requested size: 99.58464pt x 74.68704pt.
-
-Overfull \hbox (13.78062pt too wide) in paragraph at lines 155--155
- [][] 
- []
-
-[11
-
- <../fig/model_comparison/Mejecta_time_evolution_joined.pdf> <../fig/sfho_vlr_h
-r_constatm/Mass_injection.pdf>]) (./sections/3-2Elements.tex
-<../fig/blh_vlr_hr_constatm/Masses_sections_theta.pdf, id=1307, 632.76402pt x 4
-80.69035pt>
-File: ../fig/blh_vlr_hr_constatm/Masses_sections_theta.pdf Graphic file (type p
-df)
-<use ../fig/blh_vlr_hr_constatm/Masses_sections_theta.pdf>
-Package pdftex.def Info: ../fig/blh_vlr_hr_constatm/Masses_sections_theta.pdf  
-used on input line 30.
-(pdftex.def)             Requested size: 107.55177pt x 81.7016pt.
-<../fig/sfho_vlr_hr_constatm/Masses_sections_theta.pdf, id=1308, 632.76402pt x 
-480.69035pt>
-File: ../fig/sfho_vlr_hr_constatm/Masses_sections_theta.pdf Graphic file (type 
-pdf)
-<use ../fig/sfho_vlr_hr_constatm/Masses_sections_theta.pdf>
-Package pdftex.def Info: ../fig/sfho_vlr_hr_constatm/Masses_sections_theta.pdf 
- used on input line 30.
-(pdftex.def)             Requested size: 107.55177pt x 81.7016pt.
-<../fig/dd2_135_vlr_hr_constatm/Masses_sections_theta.pdf, id=1309, 632.76402pt
- x 480.69035pt>
-File: ../fig/dd2_135_vlr_hr_constatm/Masses_sections_theta.pdf Graphic file (ty
-pe pdf)
-<use ../fig/dd2_135_vlr_hr_constatm/Masses_sections_theta.pdf>
-Package pdftex.def Info: ../fig/dd2_135_vlr_hr_constatm/Masses_sections_theta.p
-df  used on input line 30.
-(pdftex.def)             Requested size: 107.55177pt x 81.7016pt.
-<../fig/dd2_180_vlr_hr_constatm/Masses_sections_theta.pdf, id=1310, 632.76402pt
- x 480.69035pt>
-File: ../fig/dd2_180_vlr_hr_constatm/Masses_sections_theta.pdf Graphic file (ty
-pe pdf)
-<use ../fig/dd2_180_vlr_hr_constatm/Masses_sections_theta.pdf>
-Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/Masses_sections_theta.p
-df  used on input line 30.
-(pdftex.def)             Requested size: 107.55177pt x 81.7016pt.
- [12
-
- <../fig/blh_vlr_hr_constatm/Masses_sections_theta.pdf> <../fig/sfho_vlr_hr_con
-statm/Masses_sections_theta.pdf> <../fig/dd2_135_vlr_hr_constatm/Masses_section
-s_theta.pdf> <../fig/dd2_180_vlr_hr_constatm/Masses_sections_theta.pdf>]
-<../fig/blh_vlr_hr_constatm/Masses_sections_phi.pdf, id=1530, 632.76402pt x 480
-.69035pt>
-File: ../fig/blh_vlr_hr_constatm/Masses_sections_phi.pdf Graphic file (type pdf
-)
-<use ../fig/blh_vlr_hr_constatm/Masses_sections_phi.pdf>
-Package pdftex.def Info: ../fig/blh_vlr_hr_constatm/Masses_sections_phi.pdf  us
-ed on input line 60.
-(pdftex.def)             Requested size: 107.55177pt x 81.7016pt.
-<../fig/sfho_vlr_hr_constatm/Masses_sections_phi.pdf, id=1531, 632.76402pt x 48
-0.69035pt>
-File: ../fig/sfho_vlr_hr_constatm/Masses_sections_phi.pdf Graphic file (type pd
-f)
-<use ../fig/sfho_vlr_hr_constatm/Masses_sections_phi.pdf>
-Package pdftex.def Info: ../fig/sfho_vlr_hr_constatm/Masses_sections_phi.pdf  u
-sed on input line 60.
-(pdftex.def)             Requested size: 107.55177pt x 81.7016pt.
-<../fig/dd2_135_vlr_hr_constatm/Masses_sections_phi.pdf, id=1532, 632.76402pt x
- 480.69035pt>
-File: ../fig/dd2_135_vlr_hr_constatm/Masses_sections_phi.pdf Graphic file (type
- pdf)
-<use ../fig/dd2_135_vlr_hr_constatm/Masses_sections_phi.pdf>
-Package pdftex.def Info: ../fig/dd2_135_vlr_hr_constatm/Masses_sections_phi.pdf
-  used on input line 60.
-(pdftex.def)             Requested size: 107.55177pt x 81.7016pt.
-<../fig/dd2_180_vlr_hr_constatm/Masses_sections_phi.pdf, id=1533, 632.76402pt x
- 480.69035pt>
-File: ../fig/dd2_180_vlr_hr_constatm/Masses_sections_phi.pdf Graphic file (type
- pdf)
-<use ../fig/dd2_180_vlr_hr_constatm/Masses_sections_phi.pdf>
-Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/Masses_sections_phi.pdf
-  used on input line 60.
-(pdftex.def)             Requested size: 107.55177pt x 81.7016pt.
- [13
-
- <../fig/blh_vlr_hr_constatm/Masses_sections_phi.pdf> <../fig/sfho_vlr_hr_const
-atm/Masses_sections_phi.pdf> <../fig/dd2_135_vlr_hr_constatm/Masses_sections_ph
-i.pdf> <../fig/dd2_180_vlr_hr_constatm/Masses_sections_phi.pdf>]
-<../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_Actinides_frame_100.png, id=1754, 205
-5.68pt x 2055.68pt>
-File: ../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_Actinides_frame_100.png Graphic 
-file (type png)
-<use ../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_Actinides_frame_100.png>
-Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_Actinides_fra
-me_100.png  used on input line 77.
-(pdftex.def)             Requested size: 199.1693pt x 199.14978pt.
-<../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_A=56_frame_100.png, id=1755, 2055.68p
-t x 2055.68pt>
-File: ../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_A=56_frame_100.png Graphic file 
-(type png)
-<use ../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_A=56_frame_100.png>
-Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_A=56_frame_10
-0.png  used on input line 77.
-(pdftex.def)             Requested size: 199.1693pt x 199.14978pt.
-
-Overfull \vbox (6.3144pt too high) detected at line 77
- []
-
-[14
-
- <../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_Actinides_frame_100.png (PNG copy)> 
-<../fig/dd2_180_vlr_hr_constatm/DD2_q1.67_A=56_frame_100.png (PNG copy)>]
-<../fig/dd2_180_vlr_hr_constatm/DD2A_polar.pdf, id=1825, 659.19089pt x 364.2734
-2pt>
-File: ../fig/dd2_180_vlr_hr_constatm/DD2A_polar.pdf Graphic file (type pdf)
-<use ../fig/dd2_180_vlr_hr_constatm/DD2A_polar.pdf>
-Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/DD2A_polar.pdf  used on
- input line 107.
-(pdftex.def)             Requested size: 239.00558pt x 132.07213pt.
-
-[15
-
- <../fig/dd2_180_vlr_hr_constatm/DD2A_polar.pdf>]
-<../fig/dd2_180_vlr_hr_constatm/Sky_locations_compare.pdf, id=1929, 1109.42642p
-t x 594.57956pt>
-File: ../fig/dd2_180_vlr_hr_constatm/Sky_locations_compare.pdf Graphic file (ty
-pe pdf)
-<use ../fig/dd2_180_vlr_hr_constatm/Sky_locations_compare.pdf>
-Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/Sky_locations_compare.p
-df  used on input line 113.
-(pdftex.def)             Requested size: 358.50229pt x 192.12921pt.
- [16
-
- <../fig/dd2_180_vlr_hr_constatm/Sky_locations_compare.pdf>]
-<../fig/blh_vlr_hr_constatm/Energy_evolution_zoom_BLH_q1.43.pdf, id=2030, 517.7
-6953pt x 376.36006pt>
-File: ../fig/blh_vlr_hr_constatm/Energy_evolution_zoom_BLH_q1.43.pdf Graphic fi
-le (type pdf)
-<use ../fig/blh_vlr_hr_constatm/Energy_evolution_zoom_BLH_q1.43.pdf>
-Package pdftex.def Info: ../fig/blh_vlr_hr_constatm/Energy_evolution_zoom_BLH_q
-1.43.pdf  used on input line 178.
-(pdftex.def)             Requested size: 125.47525pt x 91.20116pt.
-<../fig/sfho_vlr_hr_constatm/Energy_evolution_zoom_SFHO_q1.0.pdf, id=2031, 518.
-11511pt x 376.33124pt>
-File: ../fig/sfho_vlr_hr_constatm/Energy_evolution_zoom_SFHO_q1.0.pdf Graphic f
-ile (type pdf)
-<use ../fig/sfho_vlr_hr_constatm/Energy_evolution_zoom_SFHO_q1.0.pdf>
-Package pdftex.def Info: ../fig/sfho_vlr_hr_constatm/Energy_evolution_zoom_SFHO
-_q1.0.pdf  used on input line 178.
-(pdftex.def)             Requested size: 125.47525pt x 91.13675pt.
-<../fig/dd2_135_vlr_hr_constatm/Energy_evolution_zoom_DD2_q1.0.pdf, id=2032, 51
-7.76953pt x 376.33124pt>
-File: ../fig/dd2_135_vlr_hr_constatm/Energy_evolution_zoom_DD2_q1.0.pdf Graphic
- file (type pdf)
-<use ../fig/dd2_135_vlr_hr_constatm/Energy_evolution_zoom_DD2_q1.0.pdf>
-Package pdftex.def Info: ../fig/dd2_135_vlr_hr_constatm/Energy_evolution_zoom_D
-D2_q1.0.pdf  used on input line 178.
-(pdftex.def)             Requested size: 125.47525pt x 91.19417pt.
-<../fig/dd2_180_vlr_hr_constatm/Energy_evolution_zoom_DD2_q1.67.pdf, id=2033, 5
-17.76953pt x 376.33124pt>
-File: ../fig/dd2_180_vlr_hr_constatm/Energy_evolution_zoom_DD2_q1.67.pdf Graphi
-c file (type pdf)
-<use ../fig/dd2_180_vlr_hr_constatm/Energy_evolution_zoom_DD2_q1.67.pdf>
-Package pdftex.def Info: ../fig/dd2_180_vlr_hr_constatm/Energy_evolution_zoom_D
-D2_q1.67.pdf  used on input line 178.
-(pdftex.def)             Requested size: 125.47525pt x 91.19417pt.
-
-Overfull \hbox (8.48769pt too wide) in paragraph at lines 178--178
-[][] 
- []
-
-
-Overfull \hbox (8.48769pt too wide) in paragraph at lines 178--178
-[][] 
- []
-
-
-Overfull \vbox (3.98381pt too high) detected at line 178
- []
-
-[17
-
- <../fig/blh_vlr_hr_constatm/Energy_evolution_zoom_BLh_q1.43.pdf> <../fig/sfho_
-vlr_hr_constatm/Energy_evolution_zoom_SFHO_q1.0.pdf> <../fig/dd2_135_vlr_hr_con
-statm/Energy_evolution_zoom_DD2_q1.0.pdf> <../fig/dd2_180_vlr_hr_constatm/Energ
-y_evolution_zoom_DD2_q1.67.pdf>])
+ <../fig/AIC/H.pdf>]
 \tf@nav=\write7
 \openout7 = `slide.nav'.
 
@@ -1914,7 +1733,7 @@ L3 programming layer <2024-01-22>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `slide.out' has not changed.
-(rerunfilecheck)             Checksum: 80ABC605FCC4C27682DEEADEF32CDDE5;542.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                slide
@@ -1925,44 +1744,37 @@ Package logreq Info: Writing requests to 'slide.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38152 strings out of 474222
- 758873 string characters out of 5748734
- 1955975 words of memory out of 5000000
- 59683 multiletter control sequences out of 15000+600000
- 587360 words of font info for 113 fonts, out of 8000000 for 9000
+ 37852 strings out of 474222
+ 748692 string characters out of 5748734
+ 1946975 words of memory out of 5000000
+ 59430 multiletter control sequences out of 15000+600000
+ 583767 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,20n,123p,678b,1165s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,16n,123p,678b,1033s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/
-public/cm-super/sfrm0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm
-0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share
-/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/p
-ublic/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0
-600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/
-texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/pu
-blic/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss10
-95.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/t
-exmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sfsx1095.pfb>
-Output written on slide.pdf (17 pages, 5859506 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb>
+Output written on slide.pdf (8 pages, 3042415 bytes).
 PDF statistics:
- 2487 PDF objects out of 2487 (max. 8388607)
- 1126 compressed objects within 12 object streams
- 40 named destinations out of 1000 (max. 500000)
- 268 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 778 PDF objects out of 1000 (max. 8388607)
+ 382 compressed objects within 4 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
